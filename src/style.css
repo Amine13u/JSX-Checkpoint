@@ -1,0 +1,13 @@
+#main {
+    text-align: center;
+}
+
+.title {
+    padding: 60px;
+    background: #1abc9c;
+    font-size: 30px;
+}
+
+.red {
+    color: red;
+}
